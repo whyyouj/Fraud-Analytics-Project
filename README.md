@@ -38,3 +38,8 @@ git clone https://github.com/whyyouj/BT4012-Group-16.git
 Our data can be found here: 
 https://drive.google.com/drive/folders/1eI4JKj99mqs5oY5LFCxxJMJHGV_NPNzA?usp=sharing
 The dataset is too large to be uploaded to Github
+
+## Acknowledgement
+Acknowledgements to Kaggle for providing the dataset.
+https://www.kaggle.com/datasets/kartik2112/fraud-detection?resource=download
+
