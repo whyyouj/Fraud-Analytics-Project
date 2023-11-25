@@ -28,3 +28,8 @@ Our findings highlighted the effectiveness of ensemble models, particularly XGBo
 Clone the repository to your local machine:
 ```bash
 git clone https://github.com/whyyouj/BT4012-Group-16.git
+
+## Data
+Our data can be found here: 
+https://drive.google.com/drive/folders/1eI4JKj99mqs5oY5LFCxxJMJHGV_NPNzA?usp=sharing
+The dataset is too large to be uploaded to Github
