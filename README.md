@@ -6,6 +6,9 @@ In this project, our team tackled the challenge of predicting fraudulent credit 
 ## Dataset
 The dataset comprises 1,296,675 entries, with 0.579% of the data being fraudulent. Features include transaction details, merchant category, amount, and cardholder information. We conducted thorough data processing, including feature engineering and balancing the class distribution using SMOTE-Tomek Sampling.
 
+## EDA
+For our EDA, as the size of the Jupyter Notebook is too large to display preview on Github, please feel free to download the notebook and view the graphs there
+
 ## Key Features
 Our analysis identified crucial features for fraud detection:
 - `Scale_log_amt`: Log transformation of transaction amount.
