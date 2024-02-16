@@ -1,4 +1,4 @@
-# BT4012 Group 16 Project - Fraudulent Credit Card Transaction Prediction
+# Fraud Analytics Project - Fraudulent Credit Card Transaction Prediction
 
 ## Overview
 In this project, our team tackled the challenge of predicting fraudulent credit card transactions. Utilizing a synthetic dataset from Kaggle, we explored various machine learning models to identify key indicators of fraud and enhance predictive accuracy.
