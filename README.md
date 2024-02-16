@@ -30,7 +30,7 @@ Our findings highlighted the effectiveness of ensemble models, particularly XGBo
 ## Installation
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/whyyouj/BT4012-Group-16.git
+git clone https://github.com/whyyouj/Fraud-Analytics-Project.git
 
 ```
 
